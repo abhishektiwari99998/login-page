@@ -1,0 +1,58 @@
+/* form {
+    align-items: center;
+    border: 3px solid #f1f1f1;
+    height: 300px;
+    width: 900px;
+  } */
+
+.login{
+    background-color: black;
+    color: white;
+    background-image: url("photo7.jpg");
+    height: 400px;
+}
+.login1{
+    text-align: center;
+}
+.input-field{
+    color: aqua;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+
+.login2{
+    color: aqua;
+    margin-top: 20px;
+    margin-left: 130px;
+}
+
+#save-login{
+    margin-top: 20px;
+    margin-right: 140px;
+    width: 100000px;
+}
+
+.forget{
+    margin-top: 30px;
+    margin-right: 160x;
+}
+#login3{
+    font-size: 17px;
+    margin-left: 170px;
+    margin-top: -22px;
+    color: aqua;
+}
+
+#login5{
+    margin-top: -20px;
+}
+
+button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+  }
